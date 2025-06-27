@@ -143,7 +143,7 @@ const Hero = () => {
                 <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-indigo-500 to-emerald-500 animate-gradient-shift relative overflow-hidden">
                   
                    <img 
-                      src="/public/profile.jpg" 
+                      src="/profile.jpg" 
                       alt="Ritesh Kumar - Java Full-Stack Developer"
                       className="w-full h-full object-cover animate-pulse-gentle relative z-10"
                       onError={(e) => {
